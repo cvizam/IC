@@ -1,0 +1,15 @@
+* CONTENIDO DEL ZIP *
+-----------------------------------------------------------------------
+- 3a-CasaInteligente.clp : fichero con mi manejo inteligente de luces.
+- 3b-CasaInteligente.clp : fichero con el manejo inteligente de luces 
+			   exigido por el profesor.
+- Plano de la casa.
+
+-----------------------------------------------------------------------
+* ACLARACIÓN *
+-----------------------------------------------------------------------
+- En ambos ficheros .clp se encuentran incluídos tantos los hechos 
+necesarios para la ejecución de la práctica como las reglas pedidas
+en los apartados 1 y 2 (Representación de la casa y Registro de los datos 
+de los sensores, respectivamente).
+
